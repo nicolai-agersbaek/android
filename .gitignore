@@ -32,5 +32,16 @@ Thumbs.db
 .gradle
 build/
 
+#gradle  
+#/*/local.properties
+#/*/out
+#/*/*/build
+#/*/*/production
+#*.iws
+#*.ipr
+#*~
+#*.swp
+
+
 # NDK
 obj/
